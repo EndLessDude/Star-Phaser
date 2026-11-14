@@ -1,6 +1,9 @@
 # Star Phaser
 ### Game made by Shubham Dhall and Ronit Rana
 
+## Description:
+Star Phaser is a game where the user must clear 3 waves where they must collect all yellow and red stars without hitting any of the bombs.
+
 
 ## Controls:
 - W - Click this to Jump
