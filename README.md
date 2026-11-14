@@ -25,3 +25,6 @@ We got the assets from Phaser: https://phaser.io/tutorials/making-your-first-pha
 
 ## AI Declaration:
 AI was only used to create the start and end screen menu. The rest of the code which control the game's main mechanics and functionalities were created by us.
+
+## Documentation:
+https://github.com/EndLessDude/Star-Phaser/blob/main/Dhall.Shubham.Journal.1.pdf 
